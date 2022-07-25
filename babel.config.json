@@ -1,0 +1,3 @@
+{
+    "presets": ["@babel/preset-env"] //Uso de babel para traducir el lenguaje de js morderno a un lenguaje que tenga mayor compatibilidad web.
+}
